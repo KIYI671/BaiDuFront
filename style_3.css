@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	overflow:hidden;
+	height: 90px;
+	background: #F7F7F7;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 0;
+	border:solid #C0C0C0;
+	border-width: 0 0 1px 0;
+
+}
+
+h2{
+	font-size: 17px;
+	float: left;
+	text-align: center;
+	line-height: 100px;
+	width: 100px;
+	height:100px;
+	background: #ABABAB;
+	margin: 0 0 0 0;
+
+}
+
+#head{
+	background:#777777;
+}
+h1{
+	font-size: 20px;
+	color: white;
+	line-height: 60px;
+	height: 60px;
+	width: 100%;
+	margin-top: 0;
+	margin-left: 30px;
+	margin-bottom: 0;
+}
